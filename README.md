@@ -81,3 +81,10 @@ Performed:
 - November had the highest monthly sales.
 - December had the highest monthly profit.
 - Chairs and Phones were among the highest-selling sub-categories.
+
+# Business recommendation
+
+- Review pricing and discount policy for Tables and Bookcases, or consider dropping them.
+- Investigate Machines to see why high sales produce almost no profit (likely costs or discounts).
+- Plan inventory, staffing and marketing around the Sep–Dec peak, and look for ways to lift margin during it.
+- Push high-margin products (Copiers, Accessories, Paper) and target Corporate and Home Office customers.
