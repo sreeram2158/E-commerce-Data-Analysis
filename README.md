@@ -1,11 +1,11 @@
 # E-commerce-Data-Analysis
 E-commerce-Data-Analysis using Python
 
-Project Overview
+# Project Overview
 
 This project focuses on analyzing an e-commerce Superstore dataset using Python. The analysis includes data loading, data cleaning, date transformation, exploratory data analysis, and sales and profit visualization.
 
-Dataset
+# Dataset
 
 The dataset contains 9,994 rows and 21 columns.
 
@@ -27,7 +27,7 @@ Key columns include:
 - Discount
 - Profit
 
-Tools & Technologies
+# Tools & Technologies
 
 - Python
 - Pandas
@@ -36,13 +36,13 @@ Tools & Technologies
 - Seaborn
 - Jupyter Notebook
 
-Project Steps
+# Project Steps
 
-1. Data Loading
+# 1. Data Loading
 
 Loaded the Superstore dataset using Pandas.
 
-2. Data Cleaning
+# 2. Data Cleaning
 
 - Checked for missing values
 - Checked for duplicate rows
@@ -50,7 +50,7 @@ Loaded the Superstore dataset using Pandas.
 
 The dataset contained no missing values and no duplicate rows.
 
-3. Data Transformation
+# 3. Data Transformation
 
 Converted:
 
@@ -63,7 +63,7 @@ Created:
 - Order Year
 - Order Day of Week
 
-4. Exploratory Data Analysis
+# 4. Exploratory Data Analysis
 
 Performed:
 
@@ -74,7 +74,7 @@ Performed:
 - Profit Analysis by Category
 - Profit Analysis by Sub-Category
 
-Key Insights
+# Key Insights
 
 - Technology had the highest sales among the three categories.
 - Technology also generated the highest total profit.
